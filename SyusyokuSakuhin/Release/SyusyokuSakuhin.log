@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  SyusyokuSakuhin.cpp
+c:\users\iiyama\source\repos\syusyokusakuhin\syusyokusakuhin\syusyokusakuhin.cpp(72): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+c:\users\iiyama\source\repos\syusyokusakuhin\syusyokusakuhin\syusyokusakuhin.cpp(105): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\iiyama\source\repos\syusyokusakuhin\syusyokusakuhin\syusyokusakuhin.cpp(144): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\iiyama\source\repos\syusyokusakuhin\syusyokusakuhin\syusyokusakuhin.cpp(205): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+c:\users\iiyama\source\repos\syusyokusakuhin\syusyokusakuhin\syusyokusakuhin.cpp(228): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+c:\users\iiyama\source\repos\syusyokusakuhin\syusyokusakuhin\syusyokusakuhin.cpp(274): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\iiyama\source\repos\syusyokusakuhin\syusyokusakuhin\syusyokusakuhin.cpp(334): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\iiyama\source\repos\syusyokusakuhin\syusyokusakuhin\syusyokusakuhin.cpp(406): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  All 309 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  SyusyokuSakuhin.vcxproj -> C:\Users\iiyama\source\repos\SyusyokuSakuhin\Release\SyusyokuSakuhin.exe
